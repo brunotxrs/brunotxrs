@@ -1,14 +1,26 @@
-### Hi there! I am Bruno Teixeira
-***
-**About me:**
+# Hi there! 👋 I'm Bruno Teixeira👨🏻‍💻✌️👽
 
-- 📚 I'm in a career transition to become a programmer
+## About Me
 
-- 🌱 I’m currently learning HTML, CSS and JavaScript
+I’m a **Front-End Developer** in transition, currently learning **HTML**, **CSS**, and **JavaScript**. My goal is to create functional and beautiful web experiences. 🚀
 
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/brunotxrs) 
+🌱 Always growing and eager to learn new tools and frameworks.
+
+💡 **What Drives Me?**
+- **Creativity & Functionality**: Designing solutions that are both visually appealing and effective.
+- **Continuous Learning**: Staying updated with the latest in tech.
+
+## 🚀 My Journey
+
+I’m embracing the challenge of becoming a **Front-End Developer** and eager to contribute to innovative projects.
+## 💻 Skills
+
+- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+- ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 
-**Languages and Tools:**
+## 📫 How to Reach Me
 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
+- [LinkedIn](https://www.linkedin.com/in/brunotxrs/)
+- [Instagram](https://www.instagram.com/bruno_txrs/)
