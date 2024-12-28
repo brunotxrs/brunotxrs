@@ -1,26 +1,30 @@
-# Hi there! 👋 I'm Bruno Teixeira👨🏻‍💻✌️👽
+# Hi! 👋 I'm Bruno Teixeira 👨🏻‍💻✌️👽
 
 ## About Me
 
-I’m a **Front-End Developer** in transition, currently learning **HTML**, **CSS**, and **JavaScript**. My goal is to create functional and beautiful web experiences. 🚀
+I'm a Front-End Developer passionate about creating functional and beautiful web experiences. 🚀
 
-🌱 Always growing and eager to learn new tools and frameworks.
+### 🌱 Always Evolving:
+- Seeking knowledge in new tools and frameworks.
+- Exploring emerging technologies to enhance my skills.
 
-💡 **What Drives Me?**
-- **Creativity & Functionality**: Designing solutions that are both visually appealing and effective.
-- **Continuous Learning**: Staying updated with the latest in tech.
+### 💡 What Drives Me:
+- **Creativity and Functionality**: Designing solutions that are visually appealing and effective.
+- **Continuous Learning**: Staying updated with the latest in technology.
 
-## 🚀 My Journey
+---
 
-I’m embracing the challenge of becoming a **Front-End Developer** and eager to contribute to innovative projects.
-## 💻 Skills
+### 💼 Tools and Technologies:
+- **Languages:** ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+- **Frameworks:** ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black) ![Expo](https://img.shields.io/badge/Expo-1B1F23?style=flat-square&logo=expo&logoColor=white)
+- **Versioning:** ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+- **Others:** ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+---
 
-- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-- ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+### 📚 Always studying to become an excellent Web Developer!
+My focus is on developing projects that positively impact people, combining modern design and cutting-edge functionality.
 
-
-## 📫 How to Reach Me
-
+🌐 **Connect with me:**
 - [LinkedIn](https://www.linkedin.com/in/brunotxrs/)
 - [Instagram](https://www.instagram.com/bruno_txrs/)
+
