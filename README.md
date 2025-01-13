@@ -25,6 +25,5 @@ I'm a Front-End Developer passionate about creating functional and beautiful web
 My focus is on developing projects that positively impact people, combining modern design and cutting-edge functionality.
 
 🌐 **Connect with me:**
-- [LinkedIn](https://www.linkedin.com/in/brunotxrs/)
-- [Instagram](https://www.instagram.com/bruno_txrs/)
+- [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/brunotxrs/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/bruno_txrs/)
 
