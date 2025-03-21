@@ -1,9 +1,4 @@
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=D1D7E0&width=435&lines=Hi!+%F0%9F%91%8B+I'm+Bruno+Teixeira+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB%E2%9C%8C%EF%B8%8F%F0%9F%91%BD)](https://git.io/typing-svg)
-
-
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
   
 
 ### I'm a Front-End Developer passionate about creating functional and beautiful web experiences. 🚀
