@@ -1,29 +1,62 @@
-# Hi! 👋 I'm Bruno Teixeira 👨🏻‍💻✌️👽
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=D1D7E0&width=435&lines=Hi!+%F0%9F%91%8B+I'm+Bruno+Teixeira+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB%E2%9C%8C%EF%B8%8F%F0%9F%91%BD)](https://git.io/typing-svg)
 
-## About Me
 
-I'm a Front-End Developer passionate about creating functional and beautiful web experiences. 🚀
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+</div>  
+  
 
-### 🌱 Always Evolving:
+### I'm a Front-End Developer passionate about creating functional and beautiful web experiences. 🚀
+  
+
+
+
+### 🌱 Always Evolving:  
 - Seeking knowledge in new tools and frameworks.
-- Exploring emerging technologies to enhance my skills.
+-Exploring emerging technologies to enhance my skills.  
+  
 
-### 💡 What Drives Me:
-- **Creativity and Functionality**: Designing solutions that are visually appealing and effective.
-- **Continuous Learning**: Staying updated with the latest in technology.
 
----
 
-### 💼 Tools and Technologies:
-- **Languages:** ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-- **Frameworks:** ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black) ![Expo](https://img.shields.io/badge/Expo-1B1F23?style=flat-square&logo=expo&logoColor=white)
-- **Versioning:** ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-- **Others:** ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
----
+### 💡 What Drives Me:  
+-  **Creativity and Functionality:** Designing solutions that are visually appealing and effective.
+- **Continuous Learning:**  Staying updated with the latest in technology.  
+  
 
-### 📚 Always studying to become an excellent Web Developer!
-My focus is on developing projects that positively impact people, combining modern design and cutting-edge functionality.
+<br/>  
 
-🌐 **Connect with me:**
-- [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/brunotxrs/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/bruno_txrs/)
 
+## My Skill Set  
+
+<div align="left">  
+<a href="[https://en.wikipedia.org/wiki/HTML](https://www.w3schools.com/html/default.asp)" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
+<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
+<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
+<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
+<a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" /></a>  
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
+<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
+
+</div>
+
+
+## Github Stats  
+<div align="left"><img src="https://github-readme-stats.vercel.app/api?username=brunotxrs&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+
+
+## Connect with me  
+<div align="left">
+<a href="https://github.com/brunotxrs" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://twitter.com/brunotxrs" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/brunotxrs" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://instagram.com/bruno_txrs" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>  
+</div>  
