@@ -35,8 +35,11 @@
 </div>
 
 
-## Github Stats  
-<div align="left"><img src="https://github-readme-stats.vercel.app/api?username=brunotxrs&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+## Github Stats 
+<div align="left"><img src="https://github-readme-stats.vercel.app/api?username=brunotxrs&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=D1D7E0&text_color=D1D7E0" align="center" /></div>  
+
+## Most used Languages
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=brunotxrs&layout=compact&bg_color=000&border_color=30A3DC&title_color=D1D7E0&text_color=D1D7E0)
 
 
 ## Connect with me
