@@ -1,25 +1,15 @@
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=D1D7E0&width=650&lines=Hi!+%F0%9F%91%8B+I'm+Bruno+Teixeira+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB%E2%9C%8C%EF%B8%8F%F0%9F%91%BD)](https://git.io/typing-svg)
   
 
-### I'm a Front-End Developer passionate about creating functional and beautiful web experiences. 🚀
+### 👨🏻‍💻 I'm a Front-End Developer.
   
-
-
-
 ### 🌱 Always Evolving:  
 - Seeking knowledge in new tools and frameworks.
 -Exploring emerging technologies to enhance my skills.  
   
-
-
-
 ### 💡 What Drives Me:  
 -  **Creativity and Functionality:** Designing solutions that are visually appealing and effective.
 - **Continuous Learning:**  Staying updated with the latest in technology.  
-  
-
-<br/>  
-
 
 ## Languages and Tools: 
 <div align="left">  
