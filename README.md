@@ -1,7 +1,9 @@
 ![](https://capsule-render.vercel.app/api?type=waving&height=150&color=50:04001e,100:0440de&textBg=false)
 
-<h1 align="center"><strong>I'm Bruno Teixeira</strong></h1>
-<h2 align="center"><strong>Front-End Developer</strong></h2>
+<div align="center">
+  <h1><strong>I'm Bruno Teixeira</strong></h1>
+  <h2><strong>Front-End Developer</strong></h2> 
+</div>
 
 <div align="center">
   <a href="[https://www.linkedin.com/in/brunotxrs/]" target="_blank">
