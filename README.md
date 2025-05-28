@@ -6,22 +6,11 @@
 </div>
 
 <div align="center">
-  <a href="[https://www.linkedin.com/in/brunotxrs/]" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" height="35">
-  </a>
-  <a href="[https://x.com/brunotxrs]" target="_blank">
-    <img src="https://th.bing.com/th/id/ODLS.f6476f17-1068-4ccf-848c-236667b37fb5?w=32&h=32&qlt=90&pcl=fffffc&o=6&pid=1.2" height="35">
-  </a>
-  <a href="[https://ptb.discord.com/channels/brunotxrs]" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" height="35">
-  </a>
-  <a href="[https://www.instagram.com/bruno_txrs/]" target="_blank">
-    <img src="https://th.bing.com/th/id/ODLS.7e9375d5-26a4-4702-bb17-c140827dc762?w=32&h=32&qlt=90&pcl=fffffc&o=6&pid=1.2" height="35">
-  </a>
-  <a href="[https://wa.me/92993530995]" target="_blank">
-    <img src="https://th.bing.com/th/id/ODLS.50fab04a-0a4f-4927-bd9f-8da06c12d918?w=32&h=32&qlt=90&pcl=fffffa&o=6&pid=1.2" height="35">
-  </a>
-  
+  <a href="https://www.linkedin.com/in/brunotxrs/" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" height="35"></a> 
+  <a href="https://x.com/brunotxrs" target="_blank"><img src="https://th.bing.com/th/id/ODLS.f6476f17-1068-4ccf-848c-236667b37fb5?w=32&h=32&qlt=90&pcl=fffffc&o=6&pid=1.2" height="35"></a>
+  <a href="https://ptb.discord.com/channels/brunotxrs" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" height="35"></a>
+  <a href="https://www.instagram.com/bruno_txrs/" target="_blank"><img src="https://th.bing.com/th/id/ODLS.7e9375d5-26a4-4702-bb17-c140827dc762?w=32&h=32&qlt=90&pcl=fffffc&o=6&pid=1.2" height="35"></a>
+  <a href="https://wa.me/92993530995" target="_blank"><img src="https://th.bing.com/th/id/ODLS.50fab04a-0a4f-4927-bd9f-8da06c12d918?w=32&h=32&qlt=90&pcl=fffffa&o=6&pid=1.2" height="35"></a>
 </div>
   
 ### 🌱 Always Evolving:  
