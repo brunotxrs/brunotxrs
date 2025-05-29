@@ -44,4 +44,4 @@
    <a href="mailto:brunootxrs@gmail.com" target="_blank"><img src="https://img.icons8.com/?size=96&id=X0mEIh0RyDdL&format=png" height="35"></a>
 </div>
 
-![](https://capsule-render.vercel.app/api?type=waving&height=150&color=50:04001e,100:0440de&section=footer)
+![](https://capsule-render.vercel.app/api?type=waving&height=150&color=50:04001e,10:0440de&section=footer)
