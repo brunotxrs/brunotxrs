@@ -3,6 +3,7 @@
 <div align="center">
   <h1><strong>I'm Bruno Teixeira</strong></h1>
   <h2><strong>Front-End Developer</strong></h2> 
+  <p>Dedicated in transforming ideas into impactful web solutions.<br>Constantly learning and exploring new technologies to grow as a developer.</p>
 </div>
 
 <div align="center">
@@ -16,20 +17,22 @@
 <h2 align="center">Portfolio</h2>
 <div align="center">
   <a href="https://portfolio-bruno-txrs.vercel.app/"><img src="https://img.icons8.com/?size=100&id=23877&format=png" alt="portfolio" height="50"></a>
+  <p><a href="https://portfolio-bruno-txrs.vercel.app/" target="_blank">Explore my projects and skills here!</a></p>
 </div>
 
   
-### 🌱 Always Evolving:  
-- Seeking knowledge in new tools and frameworks.
--Exploring emerging technologies to enhance my skills.  
+### 🌱 Always Evolving:   
+- Seeking knowledge in new tools and frameworks. 
+- Exploring emerging technologies to enhance my skills.  
   
 ### 💡 What Drives Me:  
 -  **Creativity and Functionality:** Designing solutions that are visually appealing and effective.
 - **Continuous Learning:**  Staying updated with the latest in technology.  
 
 ## Languages and Tools: 
+
 <div align="left">  
-<a href="[https://www.w3schools.com/html/default.asp]" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="60" /></a> 
+<a href="https://www.w3schools.com/html/default.asp" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="60" /></a> 
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="60" /></a>  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>
 <a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>
