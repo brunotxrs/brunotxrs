@@ -12,10 +12,11 @@
   <a href="https://ptb.discord.com/channels/brunotxrs" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" height="35"></a>
   <a href="https://www.instagram.com/bruno_txrs/" target="_blank"><img src="https://th.bing.com/th/id/ODLS.7e9375d5-26a4-4702-bb17-c140827dc762?w=32&h=32&qlt=90&pcl=fffffc&o=6&pid=1.2" height="35"></a>
   <a href="https://wa.me/92993530995" target="_blank"><img src="https://th.bing.com/th/id/ODLS.50fab04a-0a4f-4927-bd9f-8da06c12d918?w=32&h=32&qlt=90&pcl=fffffa&o=6&pid=1.2" height="35"></a>
+   <a href="mailto:brunootxrs@gmail.com" target="_blank"><img src="https://img.icons8.com/?size=96&id=X0mEIh0RyDdL&format=png" height="35"></a>
 </div>
 
-<h2 align="center">Portfolio</h2>
 <div align="center">
+  <h2>Portfolio</h2>
   <a href="https://portfolio-bruno-txrs.vercel.app/"><img src="https://img.icons8.com/?size=100&id=23877&format=png" alt="portfolio" height="50"></a>
   <p><a href="https://portfolio-bruno-txrs.vercel.app/" target="_blank">Explore my projects and skills here!</a></p>
 </div>
