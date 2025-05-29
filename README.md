@@ -3,7 +3,7 @@
 <div align="center">
   <h1><strong>I'm Bruno Teixeira</strong></h1>
   <h2><strong>Front-End Developer</strong></h2> 
-  <p>Dedicated in transforming ideas into impactful web solutions.<br>Constantly learning and exploring new technologies to grow as a developer.</p>
+  <p>Dedicated to transforming ideas into impactful web solutions.<br>Constantly learning and exploring new technologies to grow as a developer.</p>
 </div>
 
 <div align="center">
