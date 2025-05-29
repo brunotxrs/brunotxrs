@@ -12,6 +12,12 @@
   <a href="https://www.instagram.com/bruno_txrs/" target="_blank"><img src="https://th.bing.com/th/id/ODLS.7e9375d5-26a4-4702-bb17-c140827dc762?w=32&h=32&qlt=90&pcl=fffffc&o=6&pid=1.2" height="35"></a>
   <a href="https://wa.me/92993530995" target="_blank"><img src="https://th.bing.com/th/id/ODLS.50fab04a-0a4f-4927-bd9f-8da06c12d918?w=32&h=32&qlt=90&pcl=fffffa&o=6&pid=1.2" height="35"></a>
 </div>
+
+<h2 align="center">Portfolio</h2>
+<div align="center">
+  <a href="https://portfolio-bruno-txrs.vercel.app/"><img src="https://img.icons8.com/?size=100&id=23877&format=png" alt="portfolio" height="50"></a>
+</div>
+
   
 ### 🌱 Always Evolving:  
 - Seeking knowledge in new tools and frameworks.
