@@ -17,8 +17,9 @@
 
 <div align="center">
   <h2>Portfolio</h2>
-   <p><a href="https://portfolio-bruno-txrs.vercel.app/" target="_blank">Explore my projects and skills here!</a></p>
-  <a href="https://portfolio-bruno-txrs.vercel.app/"><img src="https://img.icons8.com/?size=100&id=23877&format=png" alt="portfolio" height="50"></a>
+   <p><a href="https://portfolio-bruno-txrs.vercel.app/" target="_blank"></a>Explore my projects and skills here!</p>
+  <p>👇</p>
+  <a href="https://portfolio-bruno-txrs.vercel.app/"><img src="https://img.icons8.com/?size=100&id=23877&format=png&color=ffffff" alt="portfolio" height="50"></a>
 </div>
 
   
