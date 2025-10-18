@@ -39,8 +39,8 @@ My experience spans the full software development lifecycle, with a primary focu
 -----
 ### Bootcamps and Certificates
 <div>
-  <a href="https://www.dio.me/certificate/CPO9CDGV/share"><img src="https://assets.dio.me/rkO44OeBRslqd4_xCfrfU81zuulhXYMCMGqL0RvsSOk/f:webp/h:120/q:80/L3RyYWNrcy9iZGM3Y2MxOS1jNzk2LTQ2YTItYjc2Ny1lOGJkYzIwMWZjYjgucG5n" alt="FrontEnd" height="50"></a>
-  <a href="https://www.dio.me/certificate/NF9GZFEH/share"><img src="https://assets.dio.me/x7b_MuhmYIJNrfaC4ylPlonl2iva9KtnP2Y07e3yFrE/f:webp/h:120/q:80/L3RyYWNrcy83NTUyMmVmNi00Y2RjLTQzNjktYWUwYy0zMGNmNjhjZDM3ZDcucG5n" alt="Primeiros Passos em JAVA" height="50"></a>
+  <a href="https://www.dio.me/certificate/CPO9CDGV/share" target="_blank"><img src="https://assets.dio.me/rkO44OeBRslqd4_xCfrfU81zuulhXYMCMGqL0RvsSOk/f:webp/h:120/q:80/L3RyYWNrcy9iZGM3Y2MxOS1jNzk2LTQ2YTItYjc2Ny1lOGJkYzIwMWZjYjgucG5n" alt="FrontEnd" height="50"></a>
+  <a href="https://www.dio.me/certificate/NF9GZFEH/share" target="_blank"><img src="https://assets.dio.me/x7b_MuhmYIJNrfaC4ylPlonl2iva9KtnP2Y07e3yFrE/f:webp/h:120/q:80/L3RyYWNrcy83NTUyMmVmNi00Y2RjLTQzNjktYWUwYy0zMGNmNjhjZDM3ZDcucG5n" alt="Primeiros Passos em JAVA" height="50"></a>
 </div>
 
 <div align="center">
