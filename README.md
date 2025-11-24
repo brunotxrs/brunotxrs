@@ -39,8 +39,10 @@ My experience spans the full software development lifecycle, with a primary focu
 -----
 ### Bootcamps and Certificates
 <div>
+  <a href="https://www.dio.me/certificate/5DYWA60W/share" target="_blank"><img src="https://assets.dio.me/p8Zv-DCKyDe9aNo_zjn960gajbQ1TBcYkfyYQbcylIs/f:webp/h:120/q:80/L3RyYWNrcy82MWYzYjc0Yi0zYWRhLTQwMzAtYjIxZi00ZTkyNzVkZTU3MDAucG5n" alt="Santander 2025 - Fundamentos de Lógica de Programação" height="50"></a>
   <a href="https://www.dio.me/certificate/CPO9CDGV/share" target="_blank"><img src="https://assets.dio.me/rkO44OeBRslqd4_xCfrfU81zuulhXYMCMGqL0RvsSOk/f:webp/h:120/q:80/L3RyYWNrcy9iZGM3Y2MxOS1jNzk2LTQ2YTItYjc2Ny1lOGJkYzIwMWZjYjgucG5n" alt="FrontEnd" height="50"></a>
   <a href="https://www.dio.me/certificate/NF9GZFEH/share" target="_blank"><img src="https://assets.dio.me/x7b_MuhmYIJNrfaC4ylPlonl2iva9KtnP2Y07e3yFrE/f:webp/h:120/q:80/L3RyYWNrcy83NTUyMmVmNi00Y2RjLTQzNjktYWUwYy0zMGNmNjhjZDM3ZDcucG5n" alt="Primeiros Passos em JAVA" height="50"></a>
+  
 </div>
 
 <div align="center">
@@ -62,12 +64,12 @@ My experience spans the full software development lifecycle, with a primary focu
 <br>
 <div align="center">
   <a href="https://www.linkedin.com/in/bruno-txrs" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" height="35"></a>
-   <a href="mailto:brunootxrs@gmail.com" target="_blank"><img src="https://img.icons8.com/?size=96&id=X0mEIh0RyDdL&format=png" height="35"></a>
+  <a href="mailto:brunootxrs@gmail.com" target="_blank"><img src="https://img.icons8.com/?size=96&id=X0mEIh0RyDdL&format=png" height="35"></a>
 </div>
 
-<div align="right">
-  <span><i>Linus <q>Talk is cheap. Show me the code</q></i></span>
-</div>
+
+
+> _Linus Torvalds - "Talk is cheap. Show me the code."_
 
 ![](https://capsule-render.vercel.app/api?type=waving&height=150&color=50:04001e,10:0440de&section=footer)
 
